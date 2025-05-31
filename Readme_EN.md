@@ -39,5 +39,5 @@ Provide the analytics and strategy teams with a tool that facilitates:
 **Andrés Navarro**  
 
 📧 andresnavarroalvarez15@gmail.com
-🌐 [Portafolio Web](https://andres-navarro-portfolio.netlify.app)  
+🌐 [Portfolio Web](https://andres-navarro-portfolio.netlify.app)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)
